@@ -6,7 +6,7 @@ The goal of this project is to implement an audio media app that works
 across multiple form factors and provide a consistent user experience
 on Android devices.
 
-Screenshots
+<!-- Screenshots
 -----------
 
 <div style="display:flex;">
@@ -18,7 +18,7 @@ Screenshots
 <img alt="App image" src="metadata/screenshots/songs.png" width="30%">
 <img alt="App image" src="metadata/screenshots/player2.png" width="30%">
 <img alt="App image" src="metadata/screenshots/drawer.png" width="30%">
-</div>
+</div> -->
 
 Features
 --------
