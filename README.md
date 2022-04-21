@@ -1,21 +1,10 @@
-Sense Music Player 
+AudioPhile
 ===========================
-###### Very simple, slim, nice music player
-[![API](https://img.shields.io/badge/API-21%2B-blue.svg?style=flat-square)](https://android-arsenal.com/api?level=21) [![Donate on PayPal](https://img.shields.io/badge/PayPal-Donate%20Now-brightgreen.svg)](https://paypal.me/prashant06)
+Current version: 1.0
 
-###### Current version: 1.0
-
-Official Website: http://sensemusic.in
-
-The goal of this project is to implement an simple audio media app that works
+The goal of this project is to implement an audio media app that works
 across multiple form factors and provide a consistent user experience
-on Android phones.
-
-# Download
-
-[<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=in.sensemusic.sense)
-[<img alt="Get it on F-Droid" height="80" src="https://gitlab.com/fdroid/artwork/raw/master/badge/get-it-on.png">](https://gitlab.com/fdroid/rfp/issues/1080)
-[<img alt="Get it on Github" height="80" src="https://raw.githubusercontent.com/flocke/andOTP/master/assets/badges/get-it-on-github.png">](https://github.com/SenseMusic/Sense/releases)
+on Android devices.
 
 Screenshots
 -----------
@@ -51,9 +40,10 @@ Release v1.0:
 
 Coming Soon
 - Moduler Application Design with single Activity and swaping fragments.
-- Material design with Dark theme.
-- Browse Songs, Albums, Artists Fragments
-- SearchhView, Player Fragment.
+- Firebase integration
+- ML integration for heartbeat based mood detection
+- login/profile integration for user-user customisation of app
+
 
 Pre-requisites
 --------------
@@ -61,44 +51,4 @@ Pre-requisites
 - [Android Studio 3.x](https://developer.android.com/studio/index.html)
 - A Java compiler compatible with Java 1.8
 - The Android SDK with platform 29 installed which comes default with [Android Studio Bundle](https://developer.android.com/studio/index.html)
-
-Getting Started
----------------
-
-NOTE:- Please read all the .md files before starting.
-
-This app uses the Gradle build system. To build this project, use the
-"gradlew build" linux command or use "Import Project" in Android Studio.
-
-Support
--------
-email at support@sensemusic.in
-
-If you've found an error in this app, please
-[file an issue](https://github.com/SenseMusic/Sense/issues)
-
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for more
-details.
-
-
-License
--------
-    Copyright © 2018 Sense Music Inc.
-    
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-    
-       http://www.apache.org/licenses/LICENSE-2.0
-    
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
-
-Copyright © 2018 Sense Music Inc. All Rights Reserved.
-
-
 
